@@ -6,7 +6,7 @@ function Provider(props) {
   return (
     <div
       style={{
-        backgroundImage: `url("/assets/img/bg-light.png")`,
+        backgroundImage: `url("assets/img/bg-light.png")`,
         backgroundRepeat: 'no-repeat no-repeat',
         backgroundPosition: 'center center',
         backgroundSize: 'cover',
